@@ -167,4 +167,3 @@ class Phone:
 if __name__ == "__main__":
     # TODO работоспособность экземпляров класса проверить с помощью doctest
     doctest.testmod()
-    pass
